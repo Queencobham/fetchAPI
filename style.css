@@ -155,7 +155,7 @@ input[type=submit]:hover{
 		margin-left: 10px;
 	}
 }
-@media(min-width: 375px) {
+@media(max-width: 375px) {
 	input[type=text]{
 		margin-left: -65px;
 		width: 340px;
